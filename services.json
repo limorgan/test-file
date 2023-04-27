@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Integers",
+    "name": "integers",
+    "description": "This randomizer generates random integers (ℤ) in configurable intervals from a uniform distribution.",
+    "serviceUrl": "https://hosted.random.org/integers",
+    "reset": "WebRandomizers.IntegerGenerator.reset($('#integerGenerator'));"
+  },
+  {
+    "title": "Calendar Dates",
+    "name": "calendar",
+    "description": "This randomizer generates random calendar dates from 15 October 1582 to 31 December 3000.",
+    "serviceUrl": "https://hosted.random.org/calendar-dates",
+    "reset": "WebRandomizers.CalendarDateGenerator.reset($('#calendarDateGenerator'));"
+  },
+  {
+    "title": "Dominoes",
+    "name": "domino",
+    "description": "This is a google search for 'example'.",
+    "serviceUrl": "https://hosted.random.org/dominoes",
+    "reset": ""
+  }
+]
