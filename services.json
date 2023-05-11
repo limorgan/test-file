@@ -16,7 +16,7 @@
   {
     "title": "Dominoes",
     "name": "domino",
-    "description": "This is a google search for 'example'.",
+    "description": "This randomizer shuffles domino tiles..",
     "serviceUrl": "https://hosted.random.org/dominoes",
     "reset": ""
   }
