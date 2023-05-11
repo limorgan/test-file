@@ -21,7 +21,10 @@
     "reset": ""
   },
   {
-    "title": "Error Test",
-    "description": "This should cause an error.",
+    "title": "Example",
+    "name": "example",
+    "description": "This is a test for adding services.",
+    "serviceUrl": "https://www.google.com/search?q=example",
+    "reset": ""
   }
 ]
