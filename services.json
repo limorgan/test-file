@@ -19,12 +19,5 @@
     "description": "This is a google search for 'example'.",
     "serviceUrl": "https://hosted.random.org/dominoes",
     "reset": ""
-  },
-  {
-    "title": "Example",
-    "name": "example",
-    "description": "This is a test for adding services.",
-    "serviceUrl": "https://www.google.com/search?q=example",
-    "reset": ""
   }
 ]
