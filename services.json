@@ -19,5 +19,9 @@
     "description": "This is a google search for 'example'.",
     "serviceUrl": "https://hosted.random.org/dominoes",
     "reset": ""
+  },
+  {
+    "title": "Error Test",
+    "description": "This should cause an error.",
   }
 ]
