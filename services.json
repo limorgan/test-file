@@ -1,23 +1,112 @@
 [
   {
-    "title": "Integers",
-    "name": "integers",
-    "description": "This randomizer generates random integers (ℤ) in configurable intervals from a uniform distribution.",
-    "serviceUrl": "https://hosted.random.org/integers",
-    "reset": "WebRandomizers.IntegerGenerator.reset($('#integerGenerator'));"
+    "id": "randomizers",
+    "title": "Randomizers",
+    "multi": true,
+    "services": [
+      {
+        "title": "Integers",
+        "name": "integers",
+        "description": "This randomizer generates random integers (ℤ) in configurable intervals from a uniform distribution.",
+        "serviceUrl": "https://hosted.random.org/integers",
+        "reset": "WebRandomizers.IntegerGenerator.reset($('#integerGenerator'));"
+      },
+      {
+        "title": "Calendar Dates",
+        "name": "calendar",
+        "description": "This randomizer generates random calendar dates from 15 October 1582 to 31 December 3000.",
+        "serviceUrl": "https://hosted.random.org/calendar-dates",
+        "reset": "WebRandomizers.CalendarDateGenerator.reset($('#calendarDateGenerator'));"
+      },
+      {
+        "title": "Dominoes",
+        "name": "domino",
+        "description": "This randomizer shuffles domino tiles.",
+        "serviceUrl": "https://hosted.random.org/dominoes",
+        "reset": ""
+      }
+    ]
   },
   {
-    "title": "Calendar Dates",
-    "name": "calendar",
-    "description": "This randomizer generates random calendar dates from 15 October 1582 to 31 December 3000.",
-    "serviceUrl": "https://hosted.random.org/calendar-dates",
-    "reset": "WebRandomizers.CalendarDateGenerator.reset($('#calendarDateGenerator'));"
-  },
-  {
-    "title": "Dominoes",
-    "name": "domino",
-    "description": "This randomizer shuffles domino tiles..",
-    "serviceUrl": "https://hosted.random.org/dominoes",
-    "reset": ""
+    "id": "giveaways",
+    "title": "Giveaway Services",
+    "multi": false,
+    "services": [
+      {
+        "title": "Multi-Round Giveaways",
+        "name": "multi-round",
+        "serviceUrl": "https://giveaways.random.org/",
+        "associatedUrls": [
+          "https://giveaways.random.org/run"
+        ],
+        "modifier": {
+          "description": "document.title;",
+          "remove": {
+            "elements": [
+              "document.getElementById(\"login-login\").parentNode.parentNode"
+            ]
+          }
+        },
+        "subpages": [
+          {
+            "title": "Your Subscription",
+            "url": "https://giveaways.random.org/subscription",
+            "loginRequired": true
+          },
+          {
+            "title": "Your Giveaway History",
+            "url": "https://giveaways.random.org/history",
+            "loginRequired": true
+          },
+          {
+            "title": "FAQ",
+            "url": "https://giveaways.random.org/faq"
+          },
+          {
+            "title": "Search",
+            "url": "https://giveaways.random.org/search"
+          },
+          {
+            "title": "Verify",
+            "url": "https://giveaways.random.org/verify"
+          },
+          {
+            "title": "Guide",
+            "url": "https://giveaways.random.org/guide"
+          },
+          {
+            "title": "Pricing",
+            "url": "https://giveaways.random.org/pricing"
+          },
+          {
+            "title": "Fraud Warning",
+            "url": "https://giveaways.random.org/warning"
+          }
+        ]
+      },
+      {
+        "title": "Third-Party Draw Service",
+        "name": "third-party",
+        "serviceUrl": "https://draws.random.org/",
+        "associatedUrls": [
+          "https://draws.random.org/hold"
+        ],
+        "loginRequired": true,
+        "subpages": [
+          {
+            "title": "Your History",
+            "url": "https://draws.random.org/history"
+          },
+          {
+            "title": "Add Credit",
+            "url": "https://accounts.random.org/credit"
+          },
+          {
+            "title": "Terms and Conditions",
+            "url": "https://www.random.org/terms/2020-08-01/subscription"
+          }
+        ]
+      }
+    ]
   }
 ]
