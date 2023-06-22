@@ -95,11 +95,13 @@
         "subpages": [
           {
             "title": "Your History",
-            "url": "https://draws.random.org/history"
+            "url": "https://draws.random.org/history",
+            "loginRequired": true
           },
           {
             "title": "Add Credit",
-            "url": "https://accounts.random.org/credit"
+            "url": "https://accounts.random.org/credit",
+            "loginRequired": true
           },
           {
             "title": "Terms and Conditions",
