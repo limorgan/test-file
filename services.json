@@ -7,29 +7,20 @@
       {
         "title": "Integers",
         "name": "integers",
-        "description": "This randomizer generates random integers (ℤ) in configurable intervals from a uniform distribution.",
         "serviceUrl": "https://hosted.random.org/integers",
         "reset": "WebRandomizers.IntegerGenerator.reset($('#integerGenerator'));"
       },
       {
         "title": "Calendar Dates",
         "name": "calendar",
-        "description": "This randomizer generates random calendar dates from 15 October 1582 to 31 December 3000.",
         "serviceUrl": "https://hosted.random.org/calendar-dates",
         "reset": "WebRandomizers.CalendarDateGenerator.reset($('#calendarDateGenerator'));"
       },
       {
         "title": "Dominoes",
         "name": "domino",
-        "description": "This randomizer shuffles domino tiles.",
         "serviceUrl": "https://hosted.random.org/dominoes",
         "reset": ""
-      },
-      {
-        "title": "Testing 1",
-        "name": "test-1",
-        "description": "This randomizer generates random integers (ℤ) in configurable intervals from a uniform distribution.",
-        "serviceUrl": "https://www.google.com/search?q=test+1"
       }
     ]
   },
@@ -46,7 +37,6 @@
           "https://giveaways.random.org/run"
         ],
         "modifier": {
-          "description": "document.title;",
           "remove": {
             "elements": [
               "document.getElementById(\"login-login\").parentNode.parentNode"
@@ -114,12 +104,6 @@
             "url": "https://www.random.org/terms/2020-08-01/subscription"
           }
         ]
-      },
-      {
-        "title": "Testing 2",
-        "name": "test-2",
-        "description": "This randomizer generates random integers (ℤ) in configurable intervals from a uniform distribution.",
-        "serviceUrl": "https://www.google.com/search?q=test+2"
       }
     ]
   }
