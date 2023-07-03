@@ -24,6 +24,12 @@
         "description": "This randomizer shuffles domino tiles.",
         "serviceUrl": "https://hosted.random.org/dominoes",
         "reset": ""
+      },
+      {
+        "title": "Testing 1",
+        "name": "test-1",
+        "description": "This randomizer generates random integers (ℤ) in configurable intervals from a uniform distribution.",
+        "serviceUrl": "https://www.google.com/search?q=test+1"
       }
     ]
   },
@@ -108,6 +114,12 @@
             "url": "https://www.random.org/terms/2020-08-01/subscription"
           }
         ]
+      },
+      {
+        "title": "Testing 2",
+        "name": "test-2",
+        "description": "This randomizer generates random integers (ℤ) in configurable intervals from a uniform distribution.",
+        "serviceUrl": "https://www.google.com/search?q=test+2"
       }
     ]
   }
