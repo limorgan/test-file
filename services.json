@@ -38,7 +38,7 @@
         ],
         "modifier": {
           "hide": {
-            "elements": [
+            "htmlElements": [
               "document.getElementById(\"login-login\").parentNode.parentNode"
             ]
           }
