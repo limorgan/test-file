@@ -37,8 +37,8 @@
           "https://giveaways.random.org/run"
         ],
         "modifier": {
-          "hide": {
-            "htmlElements": [
+          "remove": {
+            "elements": [
               "document.getElementById(\"login-login\").parentNode.parentNode"
             ]
           }
