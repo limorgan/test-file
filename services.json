@@ -7,18 +7,28 @@
       {
         "title": "Integers",
         "name": "integers",
+        "description": "This randomizer generates random integers (ℤ) in configurable intervals from a uniform distribution.",
         "serviceUrl": "https://hosted.random.org/integers",
         "reset": "WebRandomizers.IntegerGenerator.reset($('#integerGenerator'));"
       },
       {
+        "title": "Lists",
+        "name": "lists",
+        "description": "This randomizer will rearrange up to 10,000 line items in random order.  If you have a RANDOM.ORG account, it can store your lists, so they're easy to randomize.",
+        "serviceUrl": "https://hosted.random.org/lists",
+        "reset": "WebRandomizers.ListRandomizer.reset($('#listRandomizer'));"
+      },
+      {
         "title": "Calendar Dates",
         "name": "calendar",
+        "description": "This randomizer generates random calendar dates from 15 October 1582 to 31 December 3000.",
         "serviceUrl": "https://hosted.random.org/calendar-dates",
         "reset": "WebRandomizers.CalendarDateGenerator.reset($('#calendarDateGenerator'));"
       },
       {
         "title": "Dominoes",
         "name": "domino",
+        "description": "This randomizer shuffles domino tiles.",
         "serviceUrl": "https://hosted.random.org/dominoes",
         "reset": ""
       }
@@ -37,8 +47,9 @@
           "https://giveaways.random.org/run"
         ],
         "modifier": {
-          "remove": {
-            "elements": [
+          "description": "document.title;",
+          "hide": {
+            "htmlElements": [
               "document.getElementById(\"login-login\").parentNode.parentNode"
             ]
           }
