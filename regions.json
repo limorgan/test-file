@@ -59,5 +59,30 @@
     "WV": "West Virginia",
     "WI": "Wisonsin",
     "WY": "Wyoming"
+  },
+  "CA": {
+    "NL": "Newfoundland and Labrador",
+    "PE": "Prince Edward Island",
+    "NS": "Nova Scotia",
+    "NB": "New Brunswick",
+    "QC": "Quebec",
+    "ON": "Ontario",
+    "MB": "Manitoba",
+    "SK": "Saskatchewan",
+    "AB": "Alberta",
+    "BC": "British Columbia",
+    "YT": "Yukon",
+    "NT": "Northwest Territories",
+    "NU": "Nunavut"
+  },
+  "AU": {
+    "ACT": "Australian Capital Territory",
+    "NSW": "New South Wales",
+    "NT": "Northern Territory",
+    "Qld": "Queensland",
+    "SA": "South Australia",
+    "Tas": "Tasmania",
+    "Vic": "Victoria",
+    "WA": "Western Australia"
   }
 }
