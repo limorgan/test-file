@@ -1151,7 +1151,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Tattslotto (Vic, Tas, ACT, NT)",
+    "name": "Tattslotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -1302,7 +1302,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "X Lotto (SA)",
+    "name": "X Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -4032,7 +4032,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Ontario 49",
+    "name": "49",
     "ticketFormats": [
       {
         "n": 1,
@@ -4059,7 +4059,9 @@
     "jurisdictions": [
       {
         "country": "CA",
-        "regions": []
+        "regions": [
+          "ON"
+        ]
       }
     ],
     "url": null,
@@ -4067,7 +4069,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Ontario Lottario",
+    "name": "Lottario",
     "ticketFormats": [
       {
         "n": 1,
@@ -4094,7 +4096,9 @@
     "jurisdictions": [
       {
         "country": "CA",
-        "regions": []
+        "regions": [
+          "ON"
+        ]
       }
     ],
     "url": null,
@@ -4102,7 +4106,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Québec 49 Lottery",
+    "name": "49 Lottery",
     "ticketFormats": [
       {
         "n": 1,
@@ -4129,7 +4133,9 @@
     "jurisdictions": [
       {
         "country": "CA",
-        "regions": []
+        "regions": [
+          "QC"
+        ]
       }
     ],
     "url": null,
@@ -4137,7 +4143,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Québec Quotidienne 2",
+    "name": "Quotidienne 2",
     "ticketFormats": [
       {
         "n": 1,
@@ -4164,7 +4170,9 @@
     "jurisdictions": [
       {
         "country": "CA",
-        "regions": []
+        "regions": [
+          "QC"
+        ]
       }
     ],
     "url": null,
@@ -4180,7 +4188,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Québec Quotidienne 3",
+    "name": "Quotidienne 3",
     "ticketFormats": [
       {
         "n": 1,
@@ -4207,7 +4215,9 @@
     "jurisdictions": [
       {
         "country": "CA",
-        "regions": []
+        "regions": [
+          "QC"
+        ]
       }
     ],
     "url": null,
@@ -4223,7 +4233,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Québec Quotidienne 4",
+    "name": "Quotidienne 4",
     "ticketFormats": [
       {
         "n": 1,
@@ -4250,7 +4260,9 @@
     "jurisdictions": [
       {
         "country": "CA",
-        "regions": []
+        "regions": [
+          "QC"
+        ]
       }
     ],
     "url": null,
@@ -4266,7 +4278,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Saskatchewan Western 649",
+    "name": "Western 649",
     "ticketFormats": [
       {
         "n": 1,
@@ -4293,7 +4305,9 @@
     "jurisdictions": [
       {
         "country": "CA",
-        "regions": []
+        "regions": [
+          "SK"
+        ]
       }
     ],
     "url": null,
@@ -4301,7 +4315,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Saskatchewan Western Max",
+    "name": "Western Max",
     "ticketFormats": [
       {
         "n": 1,
@@ -4328,7 +4342,9 @@
     "jurisdictions": [
       {
         "country": "CA",
-        "regions": []
+        "regions": [
+          "SK"
+        ]
       }
     ],
     "url": "https://www.sasklotteries.ca/games/western-max.htm",
@@ -13317,7 +13333,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Arizona - 'The Pick'",
+    "name": "'The Pick'",
     "ticketFormats": [
       {
         "n": 1,
@@ -13354,7 +13370,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Arizona - Fantasy 5",
+    "name": "Fantasy 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -13391,7 +13407,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Arizona - Triple Twist",
+    "name": "Triple Twist",
     "ticketFormats": [
       {
         "n": 1,
@@ -13428,7 +13444,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "California - Fantasy 5",
+    "name": "Fantasy 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -13465,7 +13481,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "California - Hot Spot Bulls-Eye",
+    "name": "Hot Spot Bulls-Eye",
     "ticketFormats": [
       {
         "n": 1,
@@ -13691,7 +13707,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "California - SuperLotto Plus",
+    "name": "SuperLotto Plus",
     "ticketFormats": [
       {
         "n": 2,
@@ -13734,7 +13750,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Cash4Life (Multi-State)",
+    "name": "Cash4Life",
     "ticketFormats": [
       {
         "n": 2,
@@ -13786,7 +13802,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Colorado - Cash 5",
+    "name": "Cash 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -13823,7 +13839,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Colorado - Lotto",
+    "name": "Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -13860,7 +13876,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Connecticut - Cash 5",
+    "name": "Cash 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -13897,7 +13913,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Connecticut - Classic Lotto",
+    "name": "Classic Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -13934,7 +13950,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Delaware - Multi-Win Lotto",
+    "name": "Multi-Win Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -13971,7 +13987,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Florida - Fantasy 5",
+    "name": "Fantasy 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -14008,7 +14024,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Florida - Jackpot Triple Play",
+    "name": "Jackpot Triple Play",
     "ticketFormats": [
       {
         "n": 1,
@@ -14045,7 +14061,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Florida - Lotto",
+    "name": "Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -14082,7 +14098,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Georgia - Fantasy 5",
+    "name": "Fantasy 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -14119,7 +14135,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Georgia - Jumbo Bucks Lotto",
+    "name": "Jumbo Bucks Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -14156,7 +14172,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Idaho - Idaho Cash",
+    "name": "Idaho Cash",
     "ticketFormats": [
       {
         "n": 1,
@@ -14193,7 +14209,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Idaho - Weekly Grand",
+    "name": "Weekly Grand",
     "ticketFormats": [
       {
         "n": 1,
@@ -14230,7 +14246,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Indiana - Cash 5",
+    "name": "Cash 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -14267,7 +14283,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Indiana - Hoosier Lotto",
+    "name": "Hoosier Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -14304,7 +14320,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Indiana - Mix & Match",
+    "name": "Mix & Match",
     "ticketFormats": [
       {
         "n": 1,
@@ -14341,7 +14357,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Indiana - Quick Draw",
+    "name": "Quick Draw",
     "ticketFormats": [
       {
         "n": 1,
@@ -14378,7 +14394,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Illinois - Lotto",
+    "name": "Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -14415,7 +14431,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Illinois - Lucky Day Lotto",
+    "name": "Lucky Day Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -14452,7 +14468,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Kansas - Super Cash",
+    "name": "Super Cash",
     "ticketFormats": [
       {
         "n": 2,
@@ -14495,7 +14511,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Kentucky - Cash Ball",
+    "name": "Cash Ball",
     "ticketFormats": [
       {
         "n": 2,
@@ -14538,7 +14554,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Kentucky - Win For Life",
+    "name": "Win For Life",
     "ticketFormats": [
       {
         "n": 1,
@@ -14575,7 +14591,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Lotto America (Multi-State)",
+    "name": "Lotto America",
     "ticketFormats": [
       {
         "n": 2,
@@ -14632,7 +14648,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Louisiana - Easy 5",
+    "name": "Easy 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -14669,7 +14685,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Louisiana - Lotto",
+    "name": "Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -14706,7 +14722,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Lucky for Life (Multi-State)",
+    "name": "Lucky for Life",
     "ticketFormats": [
       {
         "n": 2,
@@ -14771,7 +14787,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Maine - Weekly Grand Extra",
+    "name": "Weekly Grand Extra",
     "ticketFormats": [
       {
         "n": 2,
@@ -14814,7 +14830,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Maryland - Bonus Match 5",
+    "name": "Bonus Match 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -14851,7 +14867,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Maryland - Multi-Match",
+    "name": "Multi-Match",
     "ticketFormats": [
       {
         "n": 1,
@@ -14888,7 +14904,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Massachusetts - Mass Cash",
+    "name": "Mass Cash",
     "ticketFormats": [
       {
         "n": 1,
@@ -14925,7 +14941,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Massachusetts - Megabucks",
+    "name": "Megabucks",
     "ticketFormats": [
       {
         "n": 1,
@@ -14962,7 +14978,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Tri-State Megabucks (Multi-State)",
+    "name": "Tri-State Megabucks",
     "ticketFormats": [
       {
         "n": 2,
@@ -15007,7 +15023,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Mega Millions (Multi-State)",
+    "name": "Mega Millions",
     "ticketFormats": [
       {
         "n": 2,
@@ -15097,7 +15113,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Michigan - Classic Lotto 47",
+    "name": "Classic Lotto 47",
     "ticketFormats": [
       {
         "n": 1,
@@ -15134,7 +15150,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Michigan - Fantasy 5",
+    "name": "Fantasy 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -15171,7 +15187,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Minnesota - Gopher 5",
+    "name": "Gopher 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -15208,7 +15224,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Minnesota - North 5",
+    "name": "North 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -15245,7 +15261,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Mississippi - Match 5",
+    "name": "Match 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -15282,7 +15298,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Missouri - Lotto",
+    "name": "Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -15319,7 +15335,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Missouri - Show Me Cash",
+    "name": "Show Me Cash",
     "ticketFormats": [
       {
         "n": 1,
@@ -15356,7 +15372,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Nebraska - Pick 3",
+    "name": "Pick 3",
     "ticketFormats": [
       {
         "n": 1,
@@ -15393,7 +15409,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Nebraska - Pick 5",
+    "name": "Pick 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -15430,7 +15446,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "New Jersey - Cash 5",
+    "name": "Cash 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -15467,7 +15483,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "New Jersey - Pick 6",
+    "name": "Pick 6",
     "ticketFormats": [
       {
         "n": 1,
@@ -15504,7 +15520,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "New Mexico - Road Runner Cash",
+    "name": "Road Runner Cash",
     "ticketFormats": [
       {
         "n": 1,
@@ -15541,7 +15557,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "New York - Lotto",
+    "name": "Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -15578,7 +15594,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "New York - Quick Draw",
+    "name": "Quick Draw",
     "ticketFormats": [
       {
         "n": 1,
@@ -15804,7 +15820,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "New York - Take 5",
+    "name": "Take 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -15841,7 +15857,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "North Carolina - Carolina Cash 5",
+    "name": "Carolina Cash 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -15878,7 +15894,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "North Dakota - Wild Card 2",
+    "name": "Wild Card 2",
     "ticketFormats": [
       {
         "n": 2,
@@ -15921,7 +15937,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Ohio - Classic Lotto",
+    "name": "Classic Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -15958,7 +15974,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Ohio - Rolling Cash 5",
+    "name": "Rolling Cash 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -15995,7 +16011,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Oklahoma - Cash 5",
+    "name": "Cash 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -16032,7 +16048,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Oregon - Megabucks",
+    "name": "Megabucks",
     "ticketFormats": [
       {
         "n": 1,
@@ -16069,7 +16085,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Oregon - Pick 4",
+    "name": "Pick 4",
     "ticketFormats": [
       {
         "n": 1,
@@ -16106,7 +16122,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Oregon - Win for Life",
+    "name": "Win for Life",
     "ticketFormats": [
       {
         "n": 1,
@@ -16143,7 +16159,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Pennsylvania - Cash 5",
+    "name": "Cash 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -16180,7 +16196,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Pennsylvania - Match 6",
+    "name": "Match 6",
     "ticketFormats": [
       {
         "n": 1,
@@ -16217,7 +16233,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Pennsylvania - Mix and Match",
+    "name": "Mix and Match",
     "ticketFormats": [
       {
         "n": 1,
@@ -16254,7 +16270,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Pennsylvania - Treasure Hunt",
+    "name": "Treasure Hunt",
     "ticketFormats": [
       {
         "n": 1,
@@ -16291,7 +16307,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Powerball (Multi-State)",
+    "name": "Powerball",
     "ticketFormats": [
       {
         "n": 2,
@@ -16667,7 +16683,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Rhode Island - Wild Money",
+    "name": "Wild Money",
     "ticketFormats": [
       {
         "n": 1,
@@ -16704,7 +16720,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "South Carolina - Palmetto Cash 5",
+    "name": "Palmetto Cash 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -16741,7 +16757,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "South Dakota - Dakota Cash",
+    "name": "Dakota Cash",
     "ticketFormats": [
       {
         "n": 1,
@@ -16778,7 +16794,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Tennessee - Tennessee Cash",
+    "name": "Tennessee Cash",
     "ticketFormats": [
       {
         "n": 2,
@@ -16821,7 +16837,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Texas - All or Nothing",
+    "name": "All or Nothing",
     "ticketFormats": [
       {
         "n": 1,
@@ -16858,7 +16874,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Texas - Cash Five",
+    "name": "Cash Five",
     "ticketFormats": [
       {
         "n": 1,
@@ -16895,7 +16911,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Texas - Daily 4 / Fireball",
+    "name": "Daily 4 / Fireball",
     "ticketFormats": [
       {
         "n": 1,
@@ -16932,7 +16948,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Texas - Lotto",
+    "name": "Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -16969,7 +16985,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Texas - Pick 3 / Fireball",
+    "name": "Pick 3 / Fireball",
     "ticketFormats": [
       {
         "n": 1,
@@ -17006,7 +17022,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Texas - Two Step",
+    "name": "Two Step",
     "ticketFormats": [
       {
         "n": 2,
@@ -17049,7 +17065,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Virginia - Bank a Million",
+    "name": "Bank a Million",
     "ticketFormats": [
       {
         "n": 1,
@@ -17086,7 +17102,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Virginia - Cash 5",
+    "name": "Cash 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -17123,7 +17139,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Washington - Hit 5",
+    "name": "Hit 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -17160,7 +17176,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Washington - Lotto",
+    "name": "Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -17197,7 +17213,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Washington - Match 4",
+    "name": "Match 4",
     "ticketFormats": [
       {
         "n": 1,
@@ -17234,7 +17250,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "West Virginia - Cash 25",
+    "name": "Cash 25",
     "ticketFormats": [
       {
         "n": 1,
@@ -17271,7 +17287,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Wisconsin - All or Nothing",
+    "name": "All or Nothing",
     "ticketFormats": [
       {
         "n": 1,
@@ -17308,7 +17324,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Wisconsin - Badger 5",
+    "name": "Badger 5",
     "ticketFormats": [
       {
         "n": 1,
@@ -17345,7 +17361,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Wisconsin - Megabucks",
+    "name": "Megabucks",
     "ticketFormats": [
       {
         "n": 1,
@@ -17382,7 +17398,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Wyoming - Cowboy Draw",
+    "name": "Cowboy Draw",
     "ticketFormats": [
       {
         "n": 1,
