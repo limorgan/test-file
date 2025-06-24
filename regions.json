@@ -1,6 +1,6 @@
 [
   {
-    "name": "US",
+    "country": "US",
     "regions": {
       "AL": "Alabama",
       "AK": "Alaska",
@@ -64,7 +64,7 @@
     }
   },
   {
-    "name": "CA",
+    "country": "CA",
     "regions": {
       "NL": "Newfoundland and Labrador",
       "PE": "Prince Edward Island",
@@ -82,7 +82,7 @@
     }
   },
   {
-    "name": "AU",
+    "country": "AU",
     "regions": {
       "ACT": "Australian Capital Territory",
       "NSW": "New South Wales",

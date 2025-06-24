@@ -416,7 +416,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Gold Lotto (Qld)",
+    "name": "Gold Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -443,7 +443,9 @@
     "jurisdictions": [
       {
         "country": "AU",
-        "regions": []
+        "regions": [
+          "Qld"
+        ]
       }
     ],
     "url": null,
@@ -1078,7 +1080,7 @@
     "affiliateLinks": []
   },
   {
-    "name": "Saturday Lotto (NSW, WA)",
+    "name": "Saturday Lotto",
     "ticketFormats": [
       {
         "n": 1,
@@ -1106,6 +1108,7 @@
       {
         "country": "AU",
         "regions": [
+          "ACT",
           "NSW",
           "WA"
         ]
@@ -1181,7 +1184,6 @@
         "regions": [
           "Vic",
           "Tas",
-          "ACT",
           "NT"
         ]
       }
@@ -2267,12 +2269,15 @@
           6
         ],
         "replacement": [
+          false,
           false
         ],
         "sort": [
+          "ascending",
           "ascending"
         ],
         "formatting": [
+          "%d",
           "%d"
         ]
       },
@@ -15092,7 +15097,6 @@
           "OK",
           "OR",
           "PA",
-          "PR",
           "RI",
           "SC",
           "SD",
