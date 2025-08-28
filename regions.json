@@ -1,6 +1,7 @@
 [
   {
     "country": "US",
+    "defaultLotto": "12ce26eb",
     "regions": {
       "AL": "Alabama",
       "AK": "Alaska",
@@ -65,6 +66,7 @@
   },
   {
     "country": "CA",
+    "defaultLotto": "d2cc6b0a",
     "regions": {
       "NL": "Newfoundland and Labrador",
       "PE": "Prince Edward Island",
@@ -83,6 +85,7 @@
   },
   {
     "country": "AU",
+    "defaultLotto": "e9126807",
     "regions": {
       "ACT": "Australian Capital Territory",
       "NSW": "New South Wales",
