@@ -2,6 +2,10 @@
   {
     "country": "US",
     "defaultLotto": "12ce26eb",
+    "regionDesignation": {
+      "singular": "State",
+      "plural": "States"
+    },
     "regions": {
       "AL": "Alabama",
       "AK": "Alaska",
