@@ -1,0 +1,775 @@
+{
+  "AT": {
+    "country": "AT",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "BE": {
+    "country": "BE",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "FR": {
+    "country": "FR",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "IE": {
+    "country": "IE",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "LU": {
+    "country": "LU",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "PT": {
+    "country": "PT",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "ES": {
+    "country": "ES",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "CH": {
+    "country": "CH",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "GB": {
+    "country": "GB",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "AR": {
+    "country": "AR",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "AU": {
+    "country": "AU",
+    "regions": {
+      "Qld": {
+        "name": "Queensland",
+        "defaultLotto": null
+      },
+      "ACT": {
+        "name": "Australian Capital Territory",
+        "defaultLotto": null
+      },
+      "NSW": {
+        "name": "New South Wales",
+        "defaultLotto": null
+      },
+      "WA": {
+        "name": "Western Australia",
+        "defaultLotto": null
+      },
+      "Vic": {
+        "name": "Victoria",
+        "defaultLotto": null
+      },
+      "Tas": {
+        "name": "Tasmania",
+        "defaultLotto": null
+      },
+      "NT": {
+        "name": "Northern Territory",
+        "defaultLotto": null
+      },
+      "SA": {
+        "name": "South Australia",
+        "defaultLotto": null
+      }
+    },
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "RO": {
+    "country": "RO",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "SK": {
+    "country": "SK",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "UA": {
+    "country": "UA",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "US": {
+    "country": "US",
+    "regions": {
+      "AZ": {
+        "name": "Arizona",
+        "defaultLotto": null
+      },
+      "CA": {
+        "name": "California",
+        "defaultLotto": null
+      },
+      "FL": {
+        "name": "Florida",
+        "defaultLotto": null
+      },
+      "GA": {
+        "name": "Georgia",
+        "defaultLotto": null
+      },
+      "IN": {
+        "name": "Indiana",
+        "defaultLotto": null
+      },
+      "MD": {
+        "name": "Maryland",
+        "defaultLotto": null
+      },
+      "MO": {
+        "name": "Missouri",
+        "defaultLotto": null
+      },
+      "NJ": {
+        "name": "New Jersey",
+        "defaultLotto": null
+      },
+      "NY": {
+        "name": "New York",
+        "defaultLotto": null
+      },
+      "PA": {
+        "name": "Pennsylvania",
+        "defaultLotto": null
+      },
+      "TN": {
+        "name": "Tennessee",
+        "defaultLotto": null
+      },
+      "VA": {
+        "name": "Virginia",
+        "defaultLotto": null
+      },
+      "CO": {
+        "name": "Colorado",
+        "defaultLotto": null
+      },
+      "CT": {
+        "name": "Conneticut",
+        "defaultLotto": null
+      },
+      "DE": {
+        "name": "Delaware",
+        "defaultLotto": null
+      },
+      "ID": {
+        "name": "Idaho",
+        "defaultLotto": null
+      },
+      "IL": {
+        "name": "Illinois",
+        "defaultLotto": null
+      },
+      "KS": {
+        "name": "Kansas",
+        "defaultLotto": null
+      },
+      "KY": {
+        "name": "Kentucky",
+        "defaultLotto": null
+      },
+      "IO": {
+        "name": "Iowa",
+        "defaultLotto": null
+      },
+      "ME": {
+        "name": "Maine",
+        "defaultLotto": null
+      },
+      "MN": {
+        "name": "Minnesota",
+        "defaultLotto": null
+      },
+      "MS": {
+        "name": "Mississippi",
+        "defaultLotto": null
+      },
+      "MT": {
+        "name": "Montana",
+        "defaultLotto": null
+      },
+      "NE": {
+        "name": "Nebraska",
+        "defaultLotto": null
+      },
+      "NM": {
+        "name": "New Mexico",
+        "defaultLotto": null
+      },
+      "ND": {
+        "name": "North Dakota",
+        "defaultLotto": null
+      },
+      "OK": {
+        "name": "Oklahoma",
+        "defaultLotto": null
+      },
+      "SD": {
+        "name": "South Dakota",
+        "defaultLotto": null
+      },
+      "WV": {
+        "name": "West Virginia",
+        "defaultLotto": null
+      },
+      "LA": {
+        "name": "Louisiana",
+        "defaultLotto": null
+      },
+      "AR": {
+        "name": "Arkansas",
+        "defaultLotto": null
+      },
+      "DC": {
+        "name": "District of Columbia",
+        "defaultLotto": null
+      },
+      "MA": {
+        "name": "Massachusetts",
+        "defaultLotto": null
+      },
+      "MI": {
+        "name": "Michigan",
+        "defaultLotto": null
+      },
+      "NH": {
+        "name": "New Hampshire",
+        "defaultLotto": null
+      },
+      "NC": {
+        "name": "North Carolina",
+        "defaultLotto": null
+      },
+      "OH": {
+        "name": "Ohio",
+        "defaultLotto": null
+      },
+      "RI": {
+        "name": "Rhode Island",
+        "defaultLotto": null
+      },
+      "VT": {
+        "name": "Vermont",
+        "defaultLotto": null
+      },
+      "WY": {
+        "name": "Wyoming",
+        "defaultLotto": null
+      },
+      "OR": {
+        "name": "Oregon",
+        "defaultLotto": null
+      },
+      "SC": {
+        "name": "South Carolina",
+        "defaultLotto": null
+      },
+      "TX": {
+        "name": "Texas",
+        "defaultLotto": null
+      },
+      "VI": {
+        "name": "US Virgin Islands",
+        "defaultLotto": null
+      },
+      "WA": {
+        "name": "Washington",
+        "defaultLotto": null
+      },
+      "WI": {
+        "name": "Wisonsin",
+        "defaultLotto": null
+      },
+      "PR": {
+        "name": "Puerto Rico",
+        "defaultLotto": null
+      }
+    },
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "AE": {
+    "country": "AE",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "BJ": {
+    "country": "BJ",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "BB": {
+    "country": "BB",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "BG": {
+    "country": "BG",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "BR": {
+    "country": "BR",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "CA": {
+    "country": "CA",
+    "regions": {
+      "ON": {
+        "name": "Ontario",
+        "defaultLotto": null
+      },
+      "QC": {
+        "name": "Quebec",
+        "defaultLotto": null
+      },
+      "SK": {
+        "name": "Saskatchewan",
+        "defaultLotto": null
+      }
+    },
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "CI": {
+    "country": "CI",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "CL": {
+    "country": "CL",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "CM": {
+    "country": "CM",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "CN": {
+    "country": "CN",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "CO": {
+    "country": "CO",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "CR": {
+    "country": "CR",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "CZ": {
+    "country": "CZ",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "DE": {
+    "country": "DE",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "HR": {
+    "country": "HR",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "DK": {
+    "country": "DK",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "EE": {
+    "country": "EE",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "FI": {
+    "country": "FI",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "GR": {
+    "country": "GR",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "IS": {
+    "country": "IS",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "IT": {
+    "country": "IT",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "LV": {
+    "country": "LV",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "LT": {
+    "country": "LT",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "NL": {
+    "country": "NL",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "NO": {
+    "country": "NO",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "PL": {
+    "country": "PL",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "SI": {
+    "country": "SI",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "SE": {
+    "country": "SE",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "DM": {
+    "country": "DM",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "DO": {
+    "country": "DO",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "GD": {
+    "country": "GD",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "GH": {
+    "country": "GH",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "GN": {
+    "country": "GN",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "HK": {
+    "country": "HK",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "HU": {
+    "country": "HU",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "IL": {
+    "country": "IL",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "IN": {
+    "country": "IN",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "JM": {
+    "country": "JM",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "AI": {
+    "country": "AI",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "AG": {
+    "country": "AG",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "PY": {
+    "country": "PY",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "KN": {
+    "country": "KN",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "SX": {
+    "country": "SX",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "VI": {
+    "country": "VI",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "JP": {
+    "country": "JP",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "KE": {
+    "country": "KE",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "KR": {
+    "country": "KR",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "LA": {
+    "country": "LA",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "LB": {
+    "country": "LB",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "MA": {
+    "country": "MA",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "MK": {
+    "country": "MK",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "MU": {
+    "country": "MU",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "MT": {
+    "country": "MT",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "MX": {
+    "country": "MX",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "MY": {
+    "country": "MY",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "NG": {
+    "country": "NG",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "NI": {
+    "country": "NI",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "NZ": {
+    "country": "NZ",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "PE": {
+    "country": "PE",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "PH": {
+    "country": "PH",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "PR": {
+    "country": "PR",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "RU": {
+    "country": "RU",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "RS": {
+    "country": "RS",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "SG": {
+    "country": "SG",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "TR": {
+    "country": "TR",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "TG": {
+    "country": "TG",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "TW": {
+    "country": "TW",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "UY": {
+    "country": "UY",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "TT": {
+    "country": "TT",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "VC": {
+    "country": "VC",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "VN": {
+    "country": "VN",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "ZA": {
+    "country": "ZA",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "ZM": {
+    "country": "ZM",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  },
+  "ZW": {
+    "country": "ZW",
+    "regions": {},
+    "regionDesignation": null,
+    "defaultLotto": null
+  }
+}
