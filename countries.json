@@ -312,7 +312,10 @@
         "defaultLotto": null
       }
     },
-    "regionDesignation": null,
+    "regionDesignation": {
+      "singular": "State",
+      "plural": "States"
+    },
     "defaultLotto": "12ce26eb"
   },
   "AE": {
