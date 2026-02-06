@@ -5722,84 +5722,6 @@
     "affiliateLinks": []
   },
   {
-    "name": "Loto",
-    "ticketFormats": [
-      {
-        "n": 1,
-        "length": [
-          6
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          40
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "85d22185"
-      }
-    ],
-    "jurisdictions": [
-      {
-        "country": "DO",
-        "regions": []
-      }
-    ],
-    "url": null,
-    "drawDays": [],
-    "affiliateLinks": []
-  },
-  {
-    "name": "Loto Más",
-    "ticketFormats": [
-      {
-        "n": 2,
-        "length": [
-          6,
-          1
-        ],
-        "min": [
-          1,
-          1
-        ],
-        "max": [
-          40,
-          12
-        ],
-        "replacement": [
-          false,
-          false
-        ],
-        "sort": [
-          "ascending",
-          "ascending"
-        ],
-        "formatting": [
-          "%d",
-          "%d"
-        ],
-        "id": "3db1969b"
-      }
-    ],
-    "jurisdictions": [
-      {
-        "country": "DO",
-        "regions": []
-      }
-    ],
-    "url": null,
-    "drawDays": [],
-    "affiliateLinks": []
-  },
-  {
     "name": "Super Kino TV",
     "ticketFormats": [
       {
@@ -5832,90 +5754,6 @@
       }
     ],
     "url": null,
-    "drawDays": [],
-    "affiliateLinks": []
-  },
-  {
-    "name": "Súper Loto Más",
-    "ticketFormats": [
-      {
-        "n": 3,
-        "length": [
-          6,
-          1,
-          1
-        ],
-        "min": [
-          1,
-          1,
-          1
-        ],
-        "max": [
-          40,
-          12,
-          15
-        ],
-        "replacement": [
-          false,
-          false,
-          false
-        ],
-        "sort": [
-          "ascending",
-          "ascending",
-          "ascending"
-        ],
-        "formatting": [
-          "%d",
-          "%d",
-          "%d"
-        ],
-        "id": "fcf6f4c8"
-      }
-    ],
-    "jurisdictions": [
-      {
-        "country": "DO",
-        "regions": []
-      }
-    ],
-    "url": null,
-    "drawDays": [],
-    "affiliateLinks": []
-  },
-  {
-    "name": "Loteka - MegaLotto",
-    "ticketFormats": [
-      {
-        "n": 1,
-        "length": [
-          5
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          49
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "018343a8"
-      }
-    ],
-    "jurisdictions": [
-      {
-        "country": "DO",
-        "regions": []
-      }
-    ],
-    "url": "https://loteka.com.do/megalotto/",
     "drawDays": [],
     "affiliateLinks": []
   },
@@ -6034,42 +5872,6 @@
     "affiliateLinks": []
   },
   {
-    "name": "Super Kino TV",
-    "ticketFormats": [
-      {
-        "n": 1,
-        "length": [
-          10
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          80
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "59c7cdb6"
-      }
-    ],
-    "jurisdictions": [
-      {
-        "country": "DO",
-        "regions": []
-      }
-    ],
-    "url": null,
-    "drawDays": [],
-    "affiliateLinks": []
-  },
-  {
     "name": "Super Más Leidsa",
     "ticketFormats": [
       {
@@ -6118,78 +5920,6 @@
     "affiliateLinks": []
   },
   {
-    "name": "Loteka - MegaLotto",
-    "ticketFormats": [
-      {
-        "n": 1,
-        "length": [
-          5
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          49
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "018343a8"
-      }
-    ],
-    "jurisdictions": [
-      {
-        "country": "DO",
-        "regions": []
-      }
-    ],
-    "url": "https://loteka.com.do/megalotto/",
-    "drawDays": [],
-    "affiliateLinks": []
-  },
-  {
-    "name": "Loto Pool",
-    "ticketFormats": [
-      {
-        "n": 1,
-        "length": [
-          5
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          31
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "898525cc"
-      }
-    ],
-    "jurisdictions": [
-      {
-        "country": "DO",
-        "regions": []
-      }
-    ],
-    "url": null,
-    "drawDays": [],
-    "affiliateLinks": []
-  },
-  {
     "name": "Pega 3 Mas",
     "ticketFormats": [
       {
@@ -6222,6 +5952,42 @@
       }
     ],
     "url": null,
+    "drawDays": [],
+    "affiliateLinks": []
+  },
+  {
+    "name": "Loteka - MegaLotto",
+    "ticketFormats": [
+      {
+        "n": 1,
+        "length": [
+          5
+        ],
+        "min": [
+          1
+        ],
+        "max": [
+          49
+        ],
+        "replacement": [
+          false
+        ],
+        "sort": [
+          "ascending"
+        ],
+        "formatting": [
+          "%d"
+        ],
+        "id": "018343a8"
+      }
+    ],
+    "jurisdictions": [
+      {
+        "country": "DO",
+        "regions": []
+      }
+    ],
+    "url": "https://loteka.com.do/megalotto/",
     "drawDays": [],
     "affiliateLinks": []
   },
