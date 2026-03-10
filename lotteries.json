@@ -464,300 +464,6 @@
     "affiliateLinks": []
   },
   {
-    "name": "Keno",
-    "ticketFormats": [
-      {
-        "n": 1,
-        "length": [
-          1
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          80
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "c5d8a56c"
-      },
-      {
-        "n": 1,
-        "length": [
-          2
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          80
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "9fb77110"
-      },
-      {
-        "n": 1,
-        "length": [
-          3
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          80
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "124b6667"
-      },
-      {
-        "n": 1,
-        "length": [
-          4
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          80
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "83d31591"
-      },
-      {
-        "n": 1,
-        "length": [
-          5
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          80
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "3f35cf55"
-      },
-      {
-        "n": 1,
-        "length": [
-          6
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          80
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "e2364e24"
-      },
-      {
-        "n": 1,
-        "length": [
-          7
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          80
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "557c1f6b"
-      },
-      {
-        "n": 1,
-        "length": [
-          8
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          80
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "e857797e"
-      },
-      {
-        "n": 1,
-        "length": [
-          9
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          80
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "a252c049"
-      },
-      {
-        "n": 1,
-        "length": [
-          10
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          80
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "154b4352"
-      },
-      {
-        "n": 1,
-        "length": [
-          11
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          80
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "b67ebad5"
-      },
-      {
-        "n": 1,
-        "length": [
-          12
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          80
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "ascending"
-        ],
-        "formatting": [
-          "%d"
-        ],
-        "id": "c6d16162"
-      }
-    ],
-    "jurisdictions": [
-      {
-        "country": "AU",
-        "regions": []
-      },
-      {
-        "country": "RO",
-        "regions": []
-      },
-      {
-        "country": "SK",
-        "regions": []
-      },
-      {
-        "country": "UA",
-        "regions": []
-      },
-      {
-        "country": "US",
-        "regions": []
-      }
-    ],
-    "url": null,
-    "drawDays": [],
-    "affiliateLinks": []
-  },
-  {
     "name": "Emirates Draw - Easy 6",
     "ticketFormats": [
       {
@@ -15499,6 +15205,300 @@
       }
     ],
     "url": "http://www.kslottery.com/",
+    "drawDays": [],
+    "affiliateLinks": []
+  },
+  {
+    "name": "Keno",
+    "ticketFormats": [
+      {
+        "n": 1,
+        "length": [
+          1
+        ],
+        "min": [
+          1
+        ],
+        "max": [
+          80
+        ],
+        "replacement": [
+          false
+        ],
+        "sort": [
+          "ascending"
+        ],
+        "formatting": [
+          "%d"
+        ],
+        "id": "c5d8a56c"
+      },
+      {
+        "n": 1,
+        "length": [
+          2
+        ],
+        "min": [
+          1
+        ],
+        "max": [
+          80
+        ],
+        "replacement": [
+          false
+        ],
+        "sort": [
+          "ascending"
+        ],
+        "formatting": [
+          "%d"
+        ],
+        "id": "9fb77110"
+      },
+      {
+        "n": 1,
+        "length": [
+          3
+        ],
+        "min": [
+          1
+        ],
+        "max": [
+          80
+        ],
+        "replacement": [
+          false
+        ],
+        "sort": [
+          "ascending"
+        ],
+        "formatting": [
+          "%d"
+        ],
+        "id": "124b6667"
+      },
+      {
+        "n": 1,
+        "length": [
+          4
+        ],
+        "min": [
+          1
+        ],
+        "max": [
+          80
+        ],
+        "replacement": [
+          false
+        ],
+        "sort": [
+          "ascending"
+        ],
+        "formatting": [
+          "%d"
+        ],
+        "id": "83d31591"
+      },
+      {
+        "n": 1,
+        "length": [
+          5
+        ],
+        "min": [
+          1
+        ],
+        "max": [
+          80
+        ],
+        "replacement": [
+          false
+        ],
+        "sort": [
+          "ascending"
+        ],
+        "formatting": [
+          "%d"
+        ],
+        "id": "3f35cf55"
+      },
+      {
+        "n": 1,
+        "length": [
+          6
+        ],
+        "min": [
+          1
+        ],
+        "max": [
+          80
+        ],
+        "replacement": [
+          false
+        ],
+        "sort": [
+          "ascending"
+        ],
+        "formatting": [
+          "%d"
+        ],
+        "id": "e2364e24"
+      },
+      {
+        "n": 1,
+        "length": [
+          7
+        ],
+        "min": [
+          1
+        ],
+        "max": [
+          80
+        ],
+        "replacement": [
+          false
+        ],
+        "sort": [
+          "ascending"
+        ],
+        "formatting": [
+          "%d"
+        ],
+        "id": "557c1f6b"
+      },
+      {
+        "n": 1,
+        "length": [
+          8
+        ],
+        "min": [
+          1
+        ],
+        "max": [
+          80
+        ],
+        "replacement": [
+          false
+        ],
+        "sort": [
+          "ascending"
+        ],
+        "formatting": [
+          "%d"
+        ],
+        "id": "e857797e"
+      },
+      {
+        "n": 1,
+        "length": [
+          9
+        ],
+        "min": [
+          1
+        ],
+        "max": [
+          80
+        ],
+        "replacement": [
+          false
+        ],
+        "sort": [
+          "ascending"
+        ],
+        "formatting": [
+          "%d"
+        ],
+        "id": "a252c049"
+      },
+      {
+        "n": 1,
+        "length": [
+          10
+        ],
+        "min": [
+          1
+        ],
+        "max": [
+          80
+        ],
+        "replacement": [
+          false
+        ],
+        "sort": [
+          "ascending"
+        ],
+        "formatting": [
+          "%d"
+        ],
+        "id": "154b4352"
+      },
+      {
+        "n": 1,
+        "length": [
+          11
+        ],
+        "min": [
+          1
+        ],
+        "max": [
+          80
+        ],
+        "replacement": [
+          false
+        ],
+        "sort": [
+          "ascending"
+        ],
+        "formatting": [
+          "%d"
+        ],
+        "id": "b67ebad5"
+      },
+      {
+        "n": 1,
+        "length": [
+          12
+        ],
+        "min": [
+          1
+        ],
+        "max": [
+          80
+        ],
+        "replacement": [
+          false
+        ],
+        "sort": [
+          "ascending"
+        ],
+        "formatting": [
+          "%d"
+        ],
+        "id": "c6d16162"
+      }
+    ],
+    "jurisdictions": [
+      {
+        "country": "AU",
+        "regions": []
+      },
+      {
+        "country": "RO",
+        "regions": []
+      },
+      {
+        "country": "SK",
+        "regions": []
+      },
+      {
+        "country": "UA",
+        "regions": []
+      },
+      {
+        "country": "US",
+        "regions": []
+      }
+    ],
+    "url": null,
     "drawDays": [],
     "affiliateLinks": []
   },
