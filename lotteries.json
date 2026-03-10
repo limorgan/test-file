@@ -16051,6 +16051,80 @@
     "affiliateLinks": []
   },
   {
+    "name": "Millionaire for Life",
+    "ticketFormats": [
+      {
+        "n": 2,
+        "length": [
+          5,
+          1
+        ],
+        "min": [
+          1,
+          1
+        ],
+        "max": [
+          58,
+          5
+        ],
+        "replacement": [
+          false,
+          false
+        ],
+        "sort": [
+          "ascending",
+          "ascending"
+        ],
+        "formatting": [
+          "%d",
+          "%d"
+        ],
+        "id": "12ce26fb"
+      }
+    ],
+    "jurisdictions": [
+      {
+        "country": "US",
+        "regions": [
+          "AR",
+          "CO",
+          "CT",
+          "DC",
+          "GA",
+          "ID",
+          "IO",
+          "IN",
+          "KS",
+          "KY",
+          "MA",
+          "ME",
+          "MI",
+          "MS",
+          "MT",
+          "NC",
+          "ND",
+          "NE",
+          "NH",
+          "NJ",
+          "NY",
+          "OH",
+          "OK",
+          "PA",
+          "RI",
+          "SD",
+          "TN",
+          "VT",
+          "VA",
+          "WV",
+          "WY"
+        ]
+      }
+    ],
+    "url": "https://www.powerball.com/millionaire-for-life",
+    "drawDays": [],
+    "affiliateLinks": []
+  },
+  {
     "name": "Classic Lotto 47",
     "ticketFormats": [
       {
@@ -17201,81 +17275,6 @@
       }
     ],
     "url": null,
-    "drawDays": [],
-    "affiliateLinks": []
-  },
-
-  {
-    "name": "Millionaire for Life",
-    "ticketFormats": [
-      {
-        "n": 2,
-        "length": [
-          5,
-          1
-        ],
-        "min": [
-          1,
-          1
-        ],
-        "max": [
-          58,
-          5
-        ],
-        "replacement": [
-          false,
-          false
-        ],
-        "sort": [
-          "ascending",
-          "ascending"
-        ],
-        "formatting": [
-          "%d",
-          "%d"
-        ],
-        "id": "12ce26fb"
-      }
-    ],
-    "jurisdictions": [
-      {
-        "country": "US",
-        "regions": [
-          "AR",
-          "CO",
-          "CT",
-          "DC",
-          "GA",
-          "ID",
-          "IO",
-          "IN",
-          "KS",
-          "KY",
-          "MA",
-          "ME",
-          "MI",
-          "MS",
-          "MT",
-          "NC",
-          "ND",
-          "NE",
-          "NH",
-          "NJ",
-          "NY",
-          "OH",
-          "OK",
-          "PA",
-          "RI",
-          "SD",
-          "TN",
-          "VT",
-          "VA",
-          "WV",
-          "WY"
-        ]
-      }
-    ],
-    "url": "https://www.powerball.com/millionaire-for-life",
     "drawDays": [],
     "affiliateLinks": []
   },
