@@ -3891,7 +3891,7 @@
           1
         ],
         "max": [
-          50
+          52
         ],
         "replacement": [
           false
@@ -5860,6 +5860,42 @@
     "affiliateLinks": []
   },
   {
+    "name": "Chance Real",
+    "ticketFormats": [
+      {
+        "n": 1,
+        "length": [
+          5
+        ],
+        "min": [
+          0
+        ],
+        "max": [
+          99
+        ],
+        "replacement": [
+          false
+        ],
+        "sort": [
+          "none"
+        ],
+        "formatting": [
+          "%02d"
+        ],
+        "id": "81abf3d2"
+      }
+    ],
+    "jurisdictions": [
+      {
+        "country": "DO",
+        "regions": []
+      }
+    ],
+    "url": "https://www.lotoreal.com.do/productos?p=1",
+    "drawDays": [],
+    "affiliateLinks": []
+  },
+  {
     "name": "Loto Real",
     "ticketFormats": [
       {
@@ -5883,6 +5919,42 @@
           "%d"
         ],
         "id": "66af7b59"
+      }
+    ],
+    "jurisdictions": [
+      {
+        "country": "DO",
+        "regions": []
+      }
+    ],
+    "url": "https://www.lotoreal.com.do/productos?p=1",
+    "drawDays": [],
+    "affiliateLinks": []
+  },
+  {
+    "name": "Loto Pool Real",
+    "ticketFormats": [
+      {
+        "n": 1,
+        "length": [
+          4
+        ],
+        "min": [
+          0
+        ],
+        "max": [
+          99
+        ],
+        "replacement": [
+          false
+        ],
+        "sort": [
+          "none"
+        ],
+        "formatting": [
+          "%02d"
+        ],
+        "id": "21af7b3e"
       }
     ],
     "jurisdictions": [
@@ -8738,6 +8810,42 @@
       }
     ],
     "url": null,
+    "drawDays": [],
+    "affiliateLinks": []
+  },
+  {
+    "name": "Top Draw",
+    "ticketFormats": [
+      {
+        "n": 1,
+        "length": [
+          5
+        ],
+        "min": [
+          1
+        ],
+        "max": [
+          22
+        ],
+        "replacement": [
+          false
+        ],
+        "sort": [
+          "ascending"
+        ],
+        "formatting": [
+          "%d"
+        ],
+        "id": "7a1b47d2"
+      }
+    ],
+    "jurisdictions": [
+      {
+        "country": "JM",
+        "regions": []
+      }
+    ],
+    "url": "https://supremeventures.com/game/top-draw/",
     "drawDays": [],
     "affiliateLinks": []
   },
