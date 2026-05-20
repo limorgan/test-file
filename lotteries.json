@@ -2080,7 +2080,7 @@
           "%d"
         ],
         "id": "ad1de88f",
-        "showOdds": true
+        "showOdds": false
       }
     ],
     "jurisdictions": [
@@ -3146,7 +3146,7 @@
           "%d"
         ],
         "id": "dfad0ed3",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -3169,7 +3169,7 @@
           "%d"
         ],
         "id": "4bc71e96",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -3192,7 +3192,7 @@
           "%d"
         ],
         "id": "2a621e99",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -3215,7 +3215,7 @@
           "%d"
         ],
         "id": "95a3462d",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -3238,7 +3238,7 @@
           "%d"
         ],
         "id": "63e4fae3",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -3261,7 +3261,7 @@
           "%d"
         ],
         "id": "5c249691",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -3284,7 +3284,7 @@
           "%d"
         ],
         "id": "11085aa6",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -3307,7 +3307,7 @@
           "%d"
         ],
         "id": "34e06353",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -3330,7 +3330,7 @@
           "%d"
         ],
         "id": "4f2553de",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -3353,7 +3353,7 @@
           "%d"
         ],
         "id": "c8763d2b",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -3376,7 +3376,7 @@
           "%d"
         ],
         "id": "5386e0d4",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -3399,7 +3399,7 @@
           "%d"
         ],
         "id": "bbaf28f9",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -3422,7 +3422,7 @@
           "%d"
         ],
         "id": "e6f72276",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -3445,7 +3445,7 @@
           "%d"
         ],
         "id": "0495ef09",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -3468,7 +3468,7 @@
           "%d"
         ],
         "id": "fdb6841b",
-        "showOdds": true
+        "showOdds": false
       }
     ],
     "jurisdictions": [
@@ -8387,7 +8387,7 @@
           "%d"
         ],
         "id": "31687729",
-        "showOdds": true
+        "showOdds": false
       }
     ],
     "jurisdictions": [
@@ -13820,7 +13820,7 @@
           "%d"
         ],
         "id": "c2020923",
-        "showOdds": true
+        "showOdds": false
       }
     ],
     "jurisdictions": [
@@ -14048,7 +14048,7 @@
           "%d"
         ],
         "id": "080e3d52",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -14071,7 +14071,7 @@
           "%d"
         ],
         "id": "92ccd37f",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -14094,7 +14094,7 @@
           "%d"
         ],
         "id": "6ed9b894",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -14117,7 +14117,7 @@
           "%d"
         ],
         "id": "a8a2f8c1",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -14140,7 +14140,7 @@
           "%d"
         ],
         "id": "74aa0fcb",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -14163,7 +14163,7 @@
           "%d"
         ],
         "id": "fe232e1a",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -14186,7 +14186,7 @@
           "%d"
         ],
         "id": "4fbaa3f2",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -14209,7 +14209,7 @@
           "%d"
         ],
         "id": "d876806d",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -14232,7 +14232,7 @@
           "%d"
         ],
         "id": "b63a029e",
-        "showOdds": true
+        "showOdds": false
       },
       {
         "n": 1,
@@ -14255,7 +14255,7 @@
           "%d"
         ],
         "id": "cee6731a",
-        "showOdds": true
+        "showOdds": false
       }
     ],
     "jurisdictions": [
