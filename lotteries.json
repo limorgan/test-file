@@ -706,7 +706,7 @@
         "regions": []
       }
     ],
-    "url": null,
+    "url": "",
     "drawDays": [
       true,
       true,
@@ -751,7 +751,7 @@
         "regions": []
       }
     ],
-    "url": null,
+    "url": "",
     "drawDays": [
       false,
       false,
@@ -1554,7 +1554,7 @@
         "regions": []
       }
     ],
-    "url": null,
+    "url": "",
     "drawDays": [],
     "affiliateLinks": []
   },
@@ -6178,7 +6178,7 @@
         "regions": []
       }
     ],
-    "url": "https://www.lotoreal.com.do/productos?p=4",
+    "url": "https://www.lotoreal.com.do/productos?p=1",
     "drawDays": [],
     "affiliateLinks": []
   },
@@ -6220,141 +6220,12 @@
     "affiliateLinks": []
   },
   {
-    "name": "Juega Más, Pega Más",
-    "ticketFormats": [
-      {
-        "n": 3,
-        "length": [
-          2,
-          2,
-          1
-        ],
-        "min": [
-          1,
-          1,
-          1
-        ],
-        "max": [
-          26,
-          26,
-          26
-        ],
-        "replacement": [
-          false,
-          false,
-          false
-        ],
-        "sort": [
-          "none",
-          "none",
-          "none"
-        ],
-        "formatting": [
-          "%02d",
-          "%02d",
-          "%02d"
-        ],
-        "id": "ac813fd2",
-        "showOdds": true
-      }
-    ],
-    "jurisdictions": [
-      {
-        "country": "DO",
-        "regions": []
-      }
-    ],
-    "url": null,
-    "drawDays": [],
-    "affiliateLinks": []
-  },
-  {
-    "name": "Loto 5 - La Primera",
+    "name": "Quiniela",
     "ticketFormats": [
       {
         "n": 1,
         "length": [
-          5
-        ],
-        "min": [
-          1
-        ],
-        "max": [
-          38
-        ],
-        "replacement": [
-          false
-        ],
-        "sort": [
-          "none"
-        ],
-        "formatting": [
-          "%02d"
-        ],
-        "id": "d12cf98a",
-        "showOdds": true
-      }
-    ],
-    "jurisdictions": [
-      {
-        "country": "DO",
-        "regions": []
-      }
-    ],
-    "url": "https://laprimera.do/loto5-y-loto5-mas-2/",
-    "drawDays": [],
-    "affiliateLinks": []
-  },
-  {
-    "name": "Loto 5 Más - La Primera",
-    "ticketFormats": [
-      {
-        "n": 2,
-        "length": [
-          5,
-          1
-        ],
-        "min": [
-          1,
-          1
-        ],
-        "max": [
-          38,
-          10
-        ],
-        "replacement": [
-          false,
-          false
-        ],
-        "sort": [
-          "none",
-          "none"
-        ],
-        "formatting": [
-          "%02d",
-          "%02d"
-        ],
-        "id": "d12cf98b",
-        "showOdds": true
-      }
-    ],
-    "jurisdictions": [
-      {
-        "country": "DO",
-        "regions": []
-      }
-    ],
-    "url": "https://laprimera.do/loto5-y-loto5-mas-2/",
-    "drawDays": [],
-    "affiliateLinks": []
-  },
-  {
-    "name": "El Quemaito Mayor",
-    "ticketFormats": [
-      {
-        "n": 1,
-        "length": [
-          1
+          2
         ],
         "min": [
           0
@@ -6363,7 +6234,76 @@
           99
         ],
         "replacement": [
-          false
+          true
+        ],
+        "sort": [
+          "none"
+        ],
+        "formatting": [
+          "%02d"
+        ],
+        "id": "2aef8e2a",
+        "showOdds": true
+      },
+      {
+        "n": 1,
+        "length": [
+          3
+        ],
+        "min": [
+          0
+        ],
+        "max": [
+          99
+        ],
+        "replacement": [
+          true
+        ],
+        "sort": [
+          "none"
+        ],
+        "formatting": [
+          "%02d"
+        ],
+        "id": "2aef8e2b",
+        "showOdds": true
+      },
+      {
+        "n": 1,
+        "length": [
+          4
+        ],
+        "min": [
+          0
+        ],
+        "max": [
+          99
+        ],
+        "replacement": [
+          true
+        ],
+        "sort": [
+          "none"
+        ],
+        "formatting": [
+          "%02d"
+        ],
+        "id": "2aef8e2c",
+        "showOdds": true
+      },
+      {
+        "n": 1,
+        "length": [
+          5
+        ],
+        "min": [
+          0
+        ],
+        "max": [
+          99
+        ],
+        "replacement": [
+          true
         ],
         "sort": [
           "none"
@@ -6381,12 +6321,12 @@
         "regions": []
       }
     ],
-    "url": "https://lotedom.com/como_jugar",
+    "url": "https://www.leidsa.com/play/draw/leidsa-quiniela-pale",
     "drawDays": [],
     "affiliateLinks": []
   },
   {
-    "name": "Super Palé LoteDom",
+    "name": "Pale",
     "ticketFormats": [
       {
         "n": 1,
@@ -6428,7 +6368,7 @@
       {
         "n": 1,
         "length": [
-          4
+          3
         ],
         "min": [
           0
@@ -6465,7 +6405,7 @@
       {
         "n": 1,
         "length": [
-          1
+          4
         ],
         "min": [
           0
@@ -6502,7 +6442,7 @@
       {
         "n": 1,
         "length": [
-          2
+          5
         ],
         "min": [
           0
@@ -7420,7 +7360,7 @@
         "regions": []
       }
     ],
-    "url": null,
+    "url": "",
     "drawDays": [
       true,
       true,
@@ -14668,7 +14608,7 @@
           1
         ],
         "max": [
-          44
+          40
         ],
         "replacement": [
           false
@@ -20001,7 +19941,7 @@
           1
         ],
         "max": [
-          58
+          52
         ],
         "replacement": [
           false
@@ -20038,7 +19978,7 @@
           1
         ],
         "max": [
-          58
+          52
         ],
         "replacement": [
           false
@@ -20075,7 +20015,7 @@
           1
         ],
         "max": [
-          58
+          52
         ],
         "replacement": [
           false
@@ -20336,7 +20276,7 @@
         "regions": []
       }
     ],
-    "url": null,
+    "url": "",
     "drawDays": [],
     "affiliateLinks": []
   },
